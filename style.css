@@ -1,0 +1,117 @@
+h1 {
+    color: rgb(75, 0, 177);
+    font-size: 50px;
+    padding-bottom: 0px;
+}
+
+h3 {
+    color: rgb(75, 0, 177);
+}
+
+h2 {
+    color: rgb(75, 0, 177);
+}
+
+p {
+    color: rgb(75, 0, 177);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    color: rgb(75, 0, 177);
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-left: 35%;
+    margin-bottom: 0px;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana;
+    background-color: rgb(5 1 20)
+}
+
+#programms {
+    color: white;
+    width: 270px;
+    background-color: red;
+    margin-left: 23%;
+}
+
+#games {
+    color: white;
+    width: 120px;
+    background-color: green;
+    margin-left: 38%;
+}
+
+#websites {
+    color: white;
+    width: 40px;
+    background-color: blue;
+    margin-left: 46%;
+}
+
+.graphic {
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 43%;
+    height: 30px;
+}
+
+#links {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    height: 175px;
+    margin-left: 37%;
+    border-radius: 20px;
+}
+
+#top {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    height: 170px;
+    margin-left: 37%;
+    border-radius: 20px;
+    padding: 0 0 5px 0
+}
+
+img {
+    border-radius: 50%;
+    border: solid 5px;
+}
+
+#gpstext {
+    color: rgb(75, 0, 177);
+    font-size: 30px;
+}
+
+#graphic {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    height: 275px;
+    margin-left: 37%;
+    border-radius: 20px;
+}
+
+#dust {
+    margin-bottom: 0px;
+}
+
+#dust2 {
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.imgslinks {
+    width: 20px;
+    height: 20px; 
+    margin-right: 5px;
+    border: solid black 2px;
+    margin-bottom: 0px;
+}
